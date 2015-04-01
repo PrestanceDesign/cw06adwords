@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cw06adwords</name>
+	<displayName><![CDATA[Conversions Google Adwords]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Ajoute le tag de conversion pour google adwords sur la page de confirmation de commande.]]></description>
+	<author><![CDATA[creaweb06.fr]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

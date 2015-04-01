@@ -10,6 +10,7 @@ var google_conversion_label = "{$CONVERSION_LABEL}";
 if ({$CONVERSION_AMOUNT}) {
   var google_conversion_value = {$CONVERSION_AMOUNT};
 }
+var google_conversion_currency = "{$currency->iso_code}";
 var google_remarketing_only = false;
 /* ]]> */
 </script>
