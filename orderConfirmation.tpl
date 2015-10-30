@@ -1,6 +1,6 @@
 
 <!-- Google Code for Vente Conversion Page -->
-<script type="text/javascript">
+<script type="text/javascript" data-keepinline="true">
 /* <![CDATA[ */
 var google_conversion_id = {$CONVERSION_ID};
 var google_conversion_language = "{$lang_iso}";
