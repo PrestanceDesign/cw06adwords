@@ -8,7 +8,7 @@ class cw06adwords extends Module {
     public function __construct($name = NULL) {
         $this->name = 'cw06adwords';
         $this->tab = 'analytics_stats';
-        $this->version = '1.1';
+        $this->version = '1.2';
         $this->author = 'creaweb06.fr';
         parent::__construct($name);
         $this->displayName = $this->l('Conversions Google Adwords');
